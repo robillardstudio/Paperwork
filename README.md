@@ -105,15 +105,13 @@ In sum, an interesting mistake.
 
 You can save your work in JPG or SVG. The SVG is here to permit modifications on the image without information loss.
 
-The library [Paper.js](http://paperjs.org) is mainly used in that purpose.
-
 ##### Work Exemple
 
 ![Poster](/pictures/Affiche.png)
 
 ___
 
-*Note: Paperwork was first based on [P5.js](https://p5js.org). In the later stage of developpement, we replaced it with [paper.js](), which proved to be much more functionnal.*
+*Note: Paperwork was first based on [P5.js](https://p5js.org). In the later stage of developpement, we replaced it with [paper.js](http://paperjs.org), which proved to be much more functionnal.*
 
 ## For development
 
