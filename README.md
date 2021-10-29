@@ -1,9 +1,5 @@
 ## Paperwork
 
-Direct access to the webapp [here](https://dragonbleapiece.github.io/Paperwork/).
-
-### What ?
-
 Paperwork is an online software for research in art and in the field of computer and visual research. It is developed in the perspective of computer art practice in the context of art schools, colleges, high schools and so on. The application helps producing drawings in the philosophy of generative processes. It is concerned with patterns, polygons, repertories and grammars. Moreover, the interface enables the learning and the editing of algorithms and therefore the construction of simple computational processes. It also offers to export svg format that makes it compatible with the traditional vector work area (graphic design, pen plotter, laser cutting, ...).
 
 Paperwork’s main algorithm is based on Markov chain, an algorithm classified by computer science in the area of machine learning. It was used by artists such as Frieder Nake (Germany), Hiroshi Kawano (Japan), Hervé Huitric and Monique Nahas (France) in early Computer Art. It is now heavily used in our digital environment (google page ranking, chatbots, physical phenomenon modeling, ...).
@@ -12,7 +8,9 @@ Software design: Gaëtan Robillard (dir.), Nicolas Cusumano (main programmer), C
 
 The Paperwork web application is based on the previous software experiment Generic Images (2018). Paperwork’s project is developed thanks to [IMAC-ESIPE](https://www.ingenieur-imac.fr) training program in the University Gustave Eiffel. Made in [React](https://reactjs.org) and [Paper.js](http://paperjs.org).
 
-### How ?
+Direct access to the webapp [here](https://dragonbleapiece.github.io/Paperwork/).
+
+### How To?
 
 Right click on anything you can and add shapes or organizing elements.
 
