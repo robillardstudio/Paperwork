@@ -70,17 +70,18 @@ Diagonal Right | Orthogonal | Snail Right
 ![DiagonalRight](/pictures/DiagonalRight.png) | ![Orthogonal](/pictures/Orthogonal.png) | ![SnailRight](/pictures/SnailRight.png)
   
 
-#### Markov *(only in Grid)*
+#### Markov *(works only in Grid)*
 
 ![Markov](/pictures/Markov.PNG)
-
-Briefly, Markov Serie is a random base serie with states. For each state, there are probabilities for state transitions.
+Markov Chain is a random base serie dealing with states and transitions between states. For each given state, probabilities are set for ruling transitions.
 
 ![MarkovParam](/pictures/MarkovParam.PNG)
 
-In this exemple, after a Circle, there are 90% chance to obtain a Circle, 5% chance to obtain a Square and 5% chance for a Triangle.
+In this exemple, after a Circle, there are 90% chance to get a new Circle, 5% chance to get a Square and equal chance for Triangle.
 
 Paperwork use a Random Behavior to generate different pictures based on the same model.
+
+The basic algorithm is documented in these two exemples : [exemple 1]() | [exemple 2]()
 
 #### Recursion
 
