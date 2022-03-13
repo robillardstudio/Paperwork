@@ -4,7 +4,7 @@ Markov chains are statistical (stochastic) models dealing with states following 
 
 ## Exemple 1 : One dimensional chain
 
-This exemple uses a serie function transitionning between three states, without probability distribution.  
+This exemple uses a serie function transitionning between three states, without probability any distribution.  
 It falls back into the structure of a serie repetition such as 1, 2, 3 ; 1, 2, 3 : ...
 
 [run in the borwser](http://mobitool.free.fr/edu/ma-ex1.html)
