@@ -1,8 +1,10 @@
 # P5 Markov Chain exemples
 
+Markov chains are statistical (stochastic) models dealing with states following each others according to probability distribution.
+
 ## Exemple 1 : One dimensional chain
 
-This exemple uses a serie fucntion transitionning between three states, without probability distribution.  
+This exemple uses a serie function transitionning between three states, without probability distribution.  
 It falls back into the structure of a serie repetition such as 1, 2, 3 ; 1, 2, 3 : ...
 
 [run in the borwser](http://mobitool.free.fr/edu/ma-ex1.html)
