@@ -4,7 +4,7 @@ Paperwork is an online software for research in art and in the field of computer
 
 Paperwork’s main algorithm is based on Markov chain, an algorithm classified by computer science in the area of machine learning. It was used by artists such as Frieder Nake (Germany), Hiroshi Kawano (Japan), Hervé Huitric and Monique Nahas (France) in early Computer Art. It is now heavily used in our digital environment (google page ranking, chatbots, physical phenomenon modeling, ...).
 
-Software design: Gaëtan Robillard (dir.), Nicolas Cusumano (main programmer), Cécile Rousset, Vincent Schmid and Quentin Sedmi.
+Software design: Gaëtan Robillard (dir.), Nicolas Cusumano (lead software developer), Cécile Rousset, Vincent Schmid and Quentin Sedmi.
 
 The Paperwork web application is based on the previous software experiment Generic Images (2018). Paperwork’s project is developed thanks to [IMAC-ESIPE](https://www.ingenieur-imac.fr) training program in the University Gustave Eiffel. Made in [React](https://reactjs.org) and [Paper.js](http://paperjs.org).
 
