@@ -8,7 +8,7 @@ Software design: Gaëtan Robillard (dir.), Nicolas Cusumano (lead software devel
 
 The Paperwork web application is based on the previous software experiment Generic Images (2018). Paperwork’s project is developed thanks to [IMAC-ESIPE](https://www.ingenieur-imac.fr) training program in the University Gustave Eiffel. Made in [React](https://reactjs.org) and [Paper.js](http://paperjs.org).
 
-Direct access to the webapp [here](https://dragonbleapiece.github.io/Paperwork/).
+Direct access to the webapp [here](https://robillardstudio.github.io/Paperwork/).
 
 ### How To?
 
