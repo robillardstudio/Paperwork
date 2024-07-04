@@ -112,7 +112,7 @@ You can save your work in JPG or SVG. The SVG is here to permit modifications on
 
 ___
 
-*Note: Paperwork was first based on [P5.js](https://p5js.org). In the later stage of developpement, we replaced it with [paper.js](http://paperjs.org), which proved to be much more functionnal.*
+*Note: Paperwork was first based on [P5.js](https://p5js.org). In the later stage of developpement, we replaced it with [paper.js](http://paperjs.org), which proved to be much more robust.*
 
 ## For development
 
