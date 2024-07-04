@@ -58,7 +58,7 @@ Allow to dispatch elements in a Square Grid
 
 ##### Modes
 
-Exist 6 Grid Distribution Modes :
+Six grid distribution modes are available:
 
 Linear X |  Linear Y | Diagonal Left 
 ------------ | ------------- | -------------
